@@ -5,5 +5,6 @@ Each paradigm folder contains four CSV files: emotion_predictions for facial exp
 
 
 You can download the packaged code from the release section and reproduce our experimental results by executing the following command:
-.\your path\codes\dist\infer.exe  .\your path\dataset
+".\your path\codes\dist\infer.exe  .\your path\dataset"
+
 Here, "dataset" must be the dataset provided by us.

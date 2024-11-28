@@ -4,5 +4,6 @@ Within these, new_A1 corresponds to the blank paradigm, new_A2 represents the ov
 Each paradigm folder contains four CSV files: emotion_predictions for facial expression features, EyesRegionNum for gaze features, Headpose for head pose features, and keypoints for facial landmark features.
 
 
-
-D:\Study\Pytorch\ASD_Screen\ASD-TD\code\dist\infer.exe D:\Study\Pytorch\ASD_Screen\ASD-TD\dataset
+You can download the packaged code from the release section and reproduce our experimental results by executing the following command:
+.\your path\codes\dist\infer.exe  .\your path\dataset
+Here, "dataset" must be the dataset provided by us.
